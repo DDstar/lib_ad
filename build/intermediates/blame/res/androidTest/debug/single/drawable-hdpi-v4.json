@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\cat.jpg",
+        "source": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\cat.jpg"
+    },
+    {
+        "merged": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\money_tree.jpg",
+        "source": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\money_tree.jpg"
+    }
+]

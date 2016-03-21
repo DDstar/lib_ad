@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\res\\merged\\debug\\drawable\\draw_pressed.xml",
+        "source": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\src\\main\\res\\drawable\\draw_pressed.xml"
+    },
+    {
+        "merged": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\res\\merged\\debug\\drawable\\draw_bg_1.xml",
+        "source": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\src\\main\\res\\drawable\\draw_bg_1.xml"
+    },
+    {
+        "merged": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\res\\merged\\debug\\drawable\\draw_normal.xml",
+        "source": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\src\\main\\res\\drawable\\draw_normal.xml"
+    },
+    {
+        "merged": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\res\\merged\\debug\\drawable\\draw_normal_1.xml",
+        "source": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\src\\main\\res\\drawable\\draw_normal_1.xml"
+    },
+    {
+        "merged": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\res\\merged\\debug\\drawable\\draw_bg.xml",
+        "source": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\src\\main\\res\\drawable\\draw_bg.xml"
+    },
+    {
+        "merged": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\res\\merged\\debug\\drawable\\et_bg.xml",
+        "source": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\src\\main\\res\\drawable\\et_bg.xml"
+    }
+]

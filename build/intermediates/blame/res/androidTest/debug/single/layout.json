@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_user.xml",
+        "source": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_view.xml",
+        "source": "C:\\Design\\AndroidStudioCode\\model_2\\lib_ad\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_view.xml"
+    }
+]
